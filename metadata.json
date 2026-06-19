@@ -1,0 +1,6 @@
+{
+  "name": "صندوق فروشگاهی سوپرمارکت",
+  "description": "نرم‌افزار مدیریت فروش و حسابداری سوپرمارکت با صندق فروشگاهی، مدیریت انبار، فاکتورها و نسیه",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
