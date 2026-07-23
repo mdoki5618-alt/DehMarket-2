@@ -19,7 +19,8 @@
       "output": "desktop-output"
     },
     "win": {
-      "target": "portable"
+      "target": "portable",
+      "icon": "icon.ico"
     },
     "files": [
       "dist/**/*",
